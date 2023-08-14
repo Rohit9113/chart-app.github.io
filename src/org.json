@@ -1,0 +1,305 @@
+{
+  "tradingName": "HappyMo",
+  "account": [
+    {
+      "name": "Founders",
+      "product": { "name": "30 Members" }
+    }
+  ],
+  "organizationChildRelationship": [
+    {
+      "tradingName": "Alice Anderson",
+      "account": [
+        {
+          "tradingName": "Carol CEO",
+          "account": [
+            {
+              "name": "Frank Sales Mgr",
+              "product": { "name": "CHRO" }
+            },
+            {
+              "name": "Grace Marketing Mgr",
+              "product": { "name": "CHRO" }
+            }
+          ]
+        }
+      ],
+      "organizationChildRelationship": [
+        {
+          "tradingName": "Carol CEO",
+          "account": [
+            {
+              "name": "Team",
+              "product": { "name": "Nun" }
+            }
+          ],
+          "organizationChildRelationship": [
+            {
+              "tradingName": "Frank Sales Mgr",
+              "account": [
+                {
+                  "name": "Null",
+                  "product": { "name": "CHRO" }
+                }
+              ],
+              "organizationChildRelationship": [
+                {
+                  "tradingName": "Jack Sales TL",
+                  "account": [
+                    {
+                      "name": "Sam",
+                      "product": { "name": "CHRO" }
+                    }
+                  ],
+                  "organizationChildRelationship": [
+                    {
+                      "tradingName": "Rachel Sales Rep",
+                      "account": [
+                        {
+                          "name": "Sam",
+                          "product": { "name": "CHRO" }
+                        }
+                      ]
+                    },
+                    {
+                      "tradingName": "Sam Sales Rep",
+                      "account": [
+                        {
+                          "name": "Sam",
+                          "product": { "name": "CHRO" }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tradingName": "Kelly Sales TL",
+                  "account": [
+                    {
+                      "name": "Sam",
+                      "product": { "name": "CHRO" }
+                    }
+                  ],
+                  "organizationChildRelationship": [
+                    {
+                      "tradingName": "Tina Sales Rep",
+                      "account": [
+                        {
+                          "name": "Sam",
+                          "product": { "name": "CHRO" }
+                        }
+                      ]
+                    },
+                    {
+                      "tradingName": "Victor Sales Rep",
+                      "account": [
+                        {
+                          "name": "Sam",
+                          "product": { "name": "CHRO" }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tradingName": "Grace Marketing Mgr",
+              "account": [
+                {
+                  "name": "Founder",
+                  "product": { "name": "000" }
+                }
+              ],
+              "organizationChildRelationship": [
+                {
+                  "tradingName": "Leo Mktg TL",
+                  "account": [
+                    {
+                      "name": "Sam",
+                      "product": { "name": "CHRO" }
+                    }
+                  ],
+                  "organizationChildRelationship": [
+                    {
+                      "tradingName": "Wendy Mktg Rep",
+                      "account": [
+                        {
+                          "name": "Sam",
+                          "product": { "name": "CHRO" }
+                        }
+                      ]
+                    },
+                    {
+                      "tradingName": "Xavier Mktg Rep",
+                      "account": [
+                        {
+                          "name": "Sam",
+                          "product": { "name": "CHRO" }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tradingName": "Maria Mktg TL",
+                  "account": [
+                    {
+                      "name": "Sam",
+                      "product": { "name": "CHRO" }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tradingName": "Henry Ops Mgr",
+              "account": [
+                {
+                  "name": "Founder",
+                  "product": { "name": "000" }
+                }
+              ],
+              "organizationChildRelationship": [
+                {
+                  "tradingName": "Nathan Ops TL",
+                  "account": [
+                    {
+                      "name": "Sam",
+                      "product": { "name": "CHRO" }
+                    }
+                  ],
+                  "organizationChildRelationship": [
+                    {
+                      "tradingName": "Yara Ops Staff",
+                      "account": [
+                        {
+                          "name": "Sam",
+                          "product": { "name": "CHRO" }
+                        }
+                      ]
+                    },
+                    {
+                      "tradingName": "Zach Ops Staff",
+                      "account": [
+                        {
+                          "name": "Sam",
+                          "product": { "name": "CHRO" }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tradingName": "Olivia Ops TL",
+                  "account": [
+                    {
+                      "name": "Sam",
+                      "product": { "name": "CHRO" }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tradingName": "Irene Tech Mgr",
+              "account": [
+                {
+                  "name": "Founder",
+                  "product": { "name": "000" }
+                }
+              ],
+              "organizationChildRelationship": [
+                {
+                  "tradingName": "Paul Tech TL",
+                  "account": [
+                    {
+                      "name": "Sam",
+                      "product": { "name": "CHRO" }
+                    }
+                  ],
+                  "organizationChildRelationship": [
+                    {
+                      "tradingName": "Alex Tech Staff",
+                      "account": [
+                        {
+                          "name": "Sam",
+                          "product": { "name": "CHRO" }
+                        }
+                      ]
+                    },
+                    {
+                      "tradingName": "Bella Tech Staff",
+                      "account": [
+                        {
+                          "name": "Sam",
+                          "product": { "name": "CHRO" }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tradingName": "Quinn Tech TL",
+                  "account": [
+                    {
+                      "name": "Sam",
+                      "product": { "name": "CHRO" }
+                    }
+                  ],
+                  "organizationChildRelationship": [
+                    {
+                      "tradingName": "Chris Tech Staff",
+                      "account": [
+                        {
+                          "name": "Sam",
+                          "product": { "name": "CHRO" }
+                        }
+                      ]
+                    },
+                    {
+                      "tradingName": "Dana Tech Staff",
+                      "account": [
+                        {
+                          "name": "Sam",
+                          "product": { "name": "CHRO" }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tradingName": "David",
+          "account": [
+            {
+              "name": "No Employee",
+              "product": { "name": "Non" }
+            }
+          ]
+        },
+        {
+          "tradingName": "Eric",
+          "account": [
+            {
+            "name": "No Employee",
+            "product": { "name": "Non" }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tradingName": "Bob Barker",
+      "account": [
+        {
+          "name": "Founder",
+          "product": { "name": "000" }
+        }
+      ]
+    }
+  ]
+}
